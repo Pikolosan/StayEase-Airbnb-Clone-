@@ -52,7 +52,7 @@ Welcome to **StayEase**, a feature-rich and intuitive Airbnb clone that streamli
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 
 ![StayEase](https://github.com/user-attachments/assets/a0ecddee-da39-42ee-b3b3-f1b3294a88c0)
 ![StayEase (1)](https://github.com/user-attachments/assets/6dbda16e-3336-4896-8f7b-8b385e69cb3f)
